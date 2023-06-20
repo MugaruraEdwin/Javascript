@@ -55,4 +55,18 @@ firstName = "Abas";
 
 console.log(firstName)
 
+//3. Dealing with constants
+
+const carName = "Volkswagen";
+console.log(carName)
+
+//4.  Naming conventions
+
+//4.1 camelCase style e.g. camelCase
+//4.2 PascalCase e.g. PascalCase
+//4.3 snake_case e.g. snake_case
+//4.4 ALL_CAPS_SNAKE_CASE e.g. ALL_CAPS_SNAKE_CASE
+//4.5 kebab-case e.g. kebab-case
+
+
 
