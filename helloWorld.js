@@ -51,4 +51,8 @@ firstName = "John";
 lastName = "Doe";
 cohort = 4;
 year = 2023;
+firstName = "Abas";
+
+console.log(firstName)
+
 
