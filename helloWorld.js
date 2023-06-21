@@ -68,5 +68,18 @@ console.log(carName)
 //4.4 ALL_CAPS_SNAKE_CASE e.g. ALL_CAPS_SNAKE_CASE
 //4.5 kebab-case e.g. kebab-case
 
+//Con
+let thirdName = "Janet";
+
+console.log("Your third name is " +thirdName)
 
 
+//Variable scopes
+
+let num1 = 5;
+let num2 = 3;
+if (num1 > num2 ) {
+    console.log("Num 1 is greater ")
+}else{
+    console.log("Num 1 is less ")
+}
