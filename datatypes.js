@@ -6,7 +6,7 @@ let doctorName = "Hamza";
 
 console.log(doctorName)
 
-//1.1 Working with Strings
+//1.1 Working with Strings (Escape )
 console.log("Yagamba nti, 'hi there...'  ")
 
 console.log("Yagamba nti, \" hi there...\"") // outside, inside
@@ -69,7 +69,7 @@ let value = Symbol("How are you")
 // Key - value pairs of a collection of data.
 //E.g.
 
-let student = {firstName: "Edwin", lastName: "Mugarura"};// firstName is key, value is Edwin
+let studentInitials= {firstName: "Edwin", lastName: "Mugarura"};// firstName is key, value is Edwin
 
 // Lirerals 
 //not a data type
