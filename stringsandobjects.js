@@ -195,7 +195,7 @@ console.log(wholeText)
 // use escape characters
 
 let message1 = 'Hello my bro, "You good?"';
-let message2 = "Hello my bro, 'You good?'";
+let message2 = "Hello my bro, 'You good?'"; 
 let message3 = "Hello my bro, \"You good? \" ";
 let message4 = 'Hello my bro, \'You good?\'';
 
