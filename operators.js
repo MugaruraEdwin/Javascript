@@ -297,4 +297,6 @@ let number1 = new Number(23);
 console.log(lastName instanceof String)
 console.log(number1 instanceof Number)
 
-//8. Bitwise operators (Research)
+//8. Bitwise operators (Research) Personal
+
+//9. I
