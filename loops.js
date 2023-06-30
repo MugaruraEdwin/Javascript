@@ -25,5 +25,15 @@ for (oddNumbers = 1; oddNumbers <= 10; oddNumbers+=2){
 //Assignment (Group-3)
 
 //1. Create 5 if statements 
+
+let mark = 60;
+
+if(mark < 60 && mark >= 0){
+    console.log("You failed the exam!")
+}else{
+    console.log("You passed the exam ")
+}
 //2. Create 5 switch cases
 //3. Swich cases for arrays
+
+
