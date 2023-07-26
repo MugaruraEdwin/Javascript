@@ -131,6 +131,11 @@ const sum1 = (a,b) => { return (a + b); }
 
 const sum2 = (a,b) => {
     let result3= a + b; 
-    return `The result is ${result3} per teh calculation`;
+    return `The result is ${result3} per the calculation`;
 }
-console.log(sum2(10,10))
+console.log(sum2(10,20))
+
+"use strict"; // read more about this
+x = 1;
+
+console.log(x)

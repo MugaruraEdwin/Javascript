@@ -158,7 +158,7 @@ console.log(myShow)
 // How to stop a constant object from being changed
 // The oject.freeze method is used to freeze an oject.
 
-// Freesing an object doesn't allow new properties to be added to the object and prevents removing or altering the existing properteis.
+// Freezing an object doesn't allow new properties to be added to the object and prevents removing or altering the existing properteis.
 // object.freeze preserves the enumerability, configurability, writability and prototype of the object.
 
 const myNewShow = Object.freeze({year:2000, age:23, firstName: "Edwin", lastName:"Mugarura", color:"red"})
